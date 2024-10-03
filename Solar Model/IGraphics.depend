@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604161266 source:d:\1905056\myproject.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1563940332 d:\1905056\opengl\include\gl.h
+
